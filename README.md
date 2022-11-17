@@ -40,7 +40,7 @@ Este projeto foi criado pela Kenzie Academy Brasil e estruturado por Matheus Vie
 <table>
   <tr>
     <td align="center">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGvHIKEgctzsA/company-logo_200_200/0/1635528369344?e=1667433600&v=beta&t=Hyu1eAXyy7-5hXIWzk3gCeZlexGAfiYy81kfOZdmS-c" width="100px;" alt="Foto da Kenzie"/><br>
+        <img src="https://veja.abril.com.br/wp-content/uploads/2019/12/1.jpg" width="100px;" alt="Foto da Kenzie"/><br>
         <sub>
           <b>Kenzie Academy Brasil</b>
         </sub>
